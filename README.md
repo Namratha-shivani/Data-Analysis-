@@ -1,3 +1,5 @@
+## POWER BI DASHBOARD
+
 <p align="center">
-  <img src="Data analysis.png" width="400" height="300" alt="Alt Text">
+  <img src="Data analysis.png" width="600" height="400" alt="Alt Text">
 </p>
